@@ -45,7 +45,7 @@ function queueTime(customers, n) {
 ## Experience 
 My first JS project(coursework): [Class-Cache](https://github.com/Stefan-Bilokrynytskyi/Class-Cache)  
 ## Education 
-I am a second-year student of National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”.  
+I am a second-year student of **National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”**.  
 Specialty: software development.  
 ## English
 Intermediate(B1)
